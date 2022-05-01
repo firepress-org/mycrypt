@@ -9,4 +9,3 @@ secret/** filter=git-crypt diff=git-crypt
 
 # does not to encrypt by default
 .gitattributes !filter !diff
-
