@@ -3,9 +3,16 @@ private/** filter=git-crypt diff=git-crypt
 token/** filter=git-crypt diff=git-crypt
 secrets/** filter=git-crypt diff=git-crypt
 secret/** filter=git-crypt diff=git-crypt
+node_modules/** filter=git-crypt diff=git-crypt
 
 # files to encrypt by default
 **.key filter=git-crypt diff=git-crypt
 
-# does not to encrypt by default
+# files to NOT encrypt by default
 .gitattributes !filter !diff
+.gitignore !filter !diff
+Dockerfile !filter !diff
+LICENSE !filter !diff
+README.md !filter !diff
+
+# custom files to encrypt
