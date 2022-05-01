@@ -1,3 +1,12 @@
+# directories to encrypt by default
 private/** filter=git-crypt diff=git-crypt
+token/** filter=git-crypt diff=git-crypt
+secrets/** filter=git-crypt diff=git-crypt
+secret/** filter=git-crypt diff=git-crypt
+
+# files to encrypt by default
+**.key filter=git-crypt diff=git-crypt
+
+# does not to encrypt by default
 .gitattributes !filter !diff
-api.key filter=git-crypt diff=git-crypt
+
