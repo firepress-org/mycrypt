@@ -4,8 +4,8 @@
 ###################################
 
 ARG APP_NAME="mycrypt"
-ARG VERSION="0.1.5"
-ARG RELEASE="0.1.5"
+ARG VERSION="0.1.6"
+ARG RELEASE="0.1.6"
 ARG GITHUB_USER="firepress-org"
 ARG DEFAULT_BRANCH="master"
 ARG GITHUB_ORG="firepress-org"
