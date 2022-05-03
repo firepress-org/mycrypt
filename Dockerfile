@@ -5,11 +5,12 @@
 
 ARG APP_NAME="mycrypt"
 ARG VERSION="0.1.9"
-ARG GITHUB_USER="firepress-org"
 ARG DEFAULT_BRANCH="master"
 ARG GITHUB_ORG="firepress-org"
+ARG GITHUB_USER="non_set"
 ARG DOCKERHUB_USER="devmtl"
 ARG GITHUB_REGISTRY="registry"
+ARG USE_GITCRYPT="false"
 
 ###################################
 # Start you Dockerfile from here (if any)
