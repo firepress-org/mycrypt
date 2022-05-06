@@ -6,8 +6,4 @@ Of that continues to link the article anonymously modern art freud inferred. Eve
 
 Dummy commits to test [bashlava](https://github.com/firepress-org/bashlava)
 
-2022-05-06_09h49
-
-Refactoring edge(), a cleaner way to handle if a branch exist or not
-
-Highlights about #4, #8
+2022-05-06_14h18
