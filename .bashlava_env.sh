@@ -6,7 +6,7 @@
 # Overide these env variables using config_custom.sh
 CFG_OVERRIDE_WITH_CUSTOM_CONFIG="false"
 
-APP_NAME="oncrypt"
+APP_NAME="mycrypt"
 GITHUB_USER="my_gh_user"
 APP_VERSION="0.1.46"
 
