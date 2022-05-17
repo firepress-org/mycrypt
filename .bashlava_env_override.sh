@@ -5,7 +5,7 @@
 
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
-APP_VERSION="0.1.55"
+APP_VERSION="0.1.56"
 
 ### BRANCH NAMES
 CFG_DEFAULT_BRANCH="master"
