@@ -29,5 +29,5 @@ CFG_LOG_LINE_NBR_LONG="12"  # log() default line number.
 CFG_ARR_SCRIPTS_COMPONENTS=( "alias.sh" "example.sh" "utilities.sh" "Show_Fct_Category_Filter.sh" )
 
 ###	DOCKER IMAGES
-DOCKER_IMG_FIGLET="devmtl/figlet:1.1"
+DOCKER_IMG_FIGLET="devmtl/figlet:1.0"
 DOCKER_IMG_GLOW="devmtl/glow:1.4.1"
