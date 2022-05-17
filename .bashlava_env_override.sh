@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# .bashlava_env_override.sh exit to override env variable from .bashlava_env.sh
+# .bashlava_env_override.sh required by bashlava
 # part of .gitignore
 
 APP_NAME="mycrypt"

@@ -2,11 +2,13 @@
 
 # .bashlava_env.sh, required by bashlava
 
-# Dont update env_var within .bashlava_env.sh
-# Create a new file: .bashlava_env_override.sh
-# Override these env_var from .bashlava_env_override.sh
+### Dont update env_var within .bashlava_env.sh
+### Create a new file: .bashlava_env_override.sh
+### Override these env_var from .bashlava_env_override.sh
 CFG_OVERRIDE_WITH_CUSTOM_CONFIG="true"
+CFG_CUSTOM_CONFIG_FILE_NAME=".bashlava_env_override.sh"
 
+### .bashlava_env_override.sh
 #APP_NAME="notset"
 #GITHUB_USER="notset"
 #APP_VERSION="0.0.1"
