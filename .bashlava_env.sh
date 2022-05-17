@@ -1,32 +1,29 @@
 #!/usr/bin/env bash
 
-# config_default.sh, required by bashlava
+# .bashlava_env.sh, required by bashlava
 
-# Dont update config_default.sh
-# Overide these env variables using config_custom.sh
+# Dont update env_var within .bashlava_env.sh
+# Create a new file: .bashlava_env_override.sh
+# Override these env_var from .bashlava_env_override.sh
 CFG_OVERRIDE_WITH_CUSTOM_CONFIG="true"
 
-#APP_NAME="mycrypt"
-#GITHUB_USER="firepress-org"
-#APP_VERSION="0.1.55"
-
-### DOCKER IMAGE REGISTRIES
-DOCKERHUB_USER="my_docker_user"
-GITHUB_REGISTRY="my_gpr_user"
+#APP_NAME="notset"
+#GITHUB_USER="notset"
+#APP_VERSION="0.0.1"
 
 ### BRANCH NAMES
-CFG_DEFAULT_BRANCH="master"
+CFG_DEFAULT_BRANCH="main"
 CFG_DEFAULT_DEV_BRANCH="edge"
 CFG_USER_IS="${USER}"
 
 ### FUNCTION OPTIONS
 CFG_EDGE_EXTENTED="false"   # #edge() not programmed yet.
-#
 CFG_LOG_LINE_NBR_SHORT="4"  # log() default line number.
 CFG_LOG_LINE_NBR_LONG="12"  # log() default line number.
 
 ### SOURCE /components
-CFG_ARR_SCRIPTS_COMPONENTS=( "alias.sh" "example.sh" "utilities.sh" "Show_Fct_Category_Filter.sh" )
+#CFG_ARR_COMPONENTS_SCRIPTS
+#CFG_ARR_DOCS_MARKDOWN
 
 ###	DOCKER IMAGES
 DOCKER_IMG_FIGLET="devmtl/figlet:1.0"
