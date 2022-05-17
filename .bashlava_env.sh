@@ -7,7 +7,7 @@
 CFG_OVERRIDE_WITH_CUSTOM_CONFIG="false"
 
 APP_NAME="mycrypt"
-GITHUB_USER="my_gh_user"
+GITHUB_USER="firepress-org"
 APP_VERSION="0.1.53"
 
 ### DOCKER IMAGE REGISTRIES
