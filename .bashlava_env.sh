@@ -4,11 +4,11 @@
 
 # Dont update config_default.sh
 # Overide these env variables using config_custom.sh
-CFG_OVERRIDE_WITH_CUSTOM_CONFIG="false"
+CFG_OVERRIDE_WITH_CUSTOM_CONFIG="true"
 
-APP_NAME="mycrypt"
-GITHUB_USER="firepress-org"
-APP_VERSION="0.1.55"
+#APP_NAME="mycrypt"
+#GITHUB_USER="firepress-org"
+#APP_VERSION="0.1.55"
 
 ### DOCKER IMAGE REGISTRIES
 DOCKERHUB_USER="my_docker_user"
