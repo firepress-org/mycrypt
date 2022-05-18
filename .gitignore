@@ -1,21 +1,13 @@
-# .gitignore
+# Specific to bashlava
 ############
 private
-custom_*.sh
-env_local_path.sh
+
+# .gitignore
+############
 .env
 .cache
-coverage
-dist
 node_modules
 npm-debug
-
-# Directories
-############
-
-# Files
-############
-var-config.sh
 
 # Compiled source #
 ###################
