@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# .bashlava_env_override.sh required by bashlava
-# part of .gitignore
+# .bashlava_env_override.sh
 
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
