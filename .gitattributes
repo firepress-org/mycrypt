@@ -11,5 +11,5 @@ Dockerfile !filter !diff
 LICENSE !filter !diff
 README.md !filter !diff
 
-# In my set up /private is part of .gitignore
+# /private is part of .gitignore so we do not encrypt it
 private/** !filter !diff
