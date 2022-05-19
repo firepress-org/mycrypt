@@ -4,7 +4,7 @@
 
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
-APP_VERSION="0.1.62"
+APP_VERSION="0.1.63"
 
 CFG_USE_PRIVATE_DIRECTORY="true"
 
