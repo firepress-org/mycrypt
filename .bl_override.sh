@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
+### Overriding defaults var in `.bl_override.sh`
 
-### =>         Override vars from `.bl_override.sh`
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
 APP_VERSION="0.1.80"
