@@ -3,7 +3,7 @@
 
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
-APP_VERSION="0.1.81"
+APP_VERSION="0.1.82"
 
 ### manage your custom scripts under this directory /private/**.sh
 CFG_USE_PRIVATE_DIRECTORY="true"
