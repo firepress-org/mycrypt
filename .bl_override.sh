@@ -11,5 +11,7 @@ CFG_USE_PRIVATE_DIRECTORY="true"
 ### function options
 CFG_USE_GPG_SIGNATURE="true"
 
+### dummy()
+
 ### branch names
 CFG_DEFAULT_BRANCH="master"
