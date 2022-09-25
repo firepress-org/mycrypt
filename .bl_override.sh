@@ -3,7 +3,7 @@
 
 APP_NAME="mycrypt"
 GITHUB_USER="firepress-org"
-APP_VERSION="0.1.92"
+APP_VERSION="0.2.0"
 
 ### Needed when projects are under sub directories
 CFG_SUB_DIR="v0"
