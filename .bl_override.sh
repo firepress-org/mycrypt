@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
+### This file is required by https://github.com/firepress-org/bashlava
 ### Overriding defaults var in `.bl_override.sh`
 
 APP_NAME="mycrypt"
